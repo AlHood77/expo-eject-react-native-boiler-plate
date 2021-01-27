@@ -1,0 +1,12 @@
+{
+  "name": "Hedera_AM",
+  "displayName": "Hedera_AM",
+  "expo": {
+    "name": "Hedera_AM",
+    "slug": "Hedera_AM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
