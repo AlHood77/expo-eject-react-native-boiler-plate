@@ -1,4 +1,4 @@
-package com.hederaam;
+package hedera.client;
 
 import android.os.Bundle;
 
